@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://tetratoon.github.io/SAB1/
 languageCode: en-us
 title: Summer QRemix
 theme: summer-qremix
@@ -28,3 +28,31 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      hardWraps: false
+      xhtml: false
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+buildDrafts: false
+buildExpired: false
+buildFuture: false
+canonifyURLs: false
+contentDir: content
+copyright: ''
+dataDir: content
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+disableAliases: false
+disableHugoGeneratorInject: false
