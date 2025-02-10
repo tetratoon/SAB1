@@ -1,37 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Quiqr</title>
-    <link>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/</link>
-    <description>Recent content in Tags on Quiqr</description>
+    <title>Tags on Summer QRemix</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Summer QRemix</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2023 - Quiqr</copyright>
-    <lastBuildDate>Sat, 08 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>food</title>
-      <link>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/food/</link>
-      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <title>alcohol</title>
+      <link>http://example.org/tags/alcohol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/food/</guid>
+      <guid>http://example.org/tags/alcohol/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ipsum</title>
-      <link>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/ipsum/</link>
-      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <title>burger</title>
+      <link>http://example.org/tags/burger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/ipsum/</guid>
+      <guid>http://example.org/tags/burger/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>lorum</title>
-      <link>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/lorum/</link>
-      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <title>christmas</title>
+      <link>http://example.org/tags/christmas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/lorum/</guid>
+      <guid>http://example.org/tags/christmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cocktail</title>
+      <link>http://example.org/tags/cocktail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/cocktail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cold</title>
+      <link>http://example.org/tags/cold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/cold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cookies</title>
+      <link>http://example.org/tags/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/cookies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>http://example.org/tags/dessert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fish</title>
+      <link>http://example.org/tags/fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fruit</title>
+      <link>http://example.org/tags/fruit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/fruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quick</title>
+      <link>http://example.org/tags/quick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/quick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salad</title>
+      <link>http://example.org/tags/salad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salty</title>
+      <link>http://example.org/tags/salty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/salty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sweet</title>
+      <link>http://example.org/tags/sweet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegan</title>
+      <link>http://example.org/tags/vegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/vegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegetarian</title>
+      <link>http://example.org/tags/vegetarian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/vegetarian/</guid>
       <description></description>
     </item>
     

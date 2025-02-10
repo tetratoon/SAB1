@@ -1,11 +1,20 @@
-# Bexer Remix
-
+<a href="https://quiqr.org/?repo=https://github.com/mipmip/summer-qremix"><img src="https://quiqr.org/button.svg" /></a>
 <a href="https://github.com/quiqr/quiqr-community-templates"><img src="https://quiqr.org/quir-community-templates-badge.svg" /></a>
 
-Create sites using bexer for big companies or small projects. Bexer and it’s CMS in Quiqr can handle every site challenge.
+# 🍦 Summer QRemix
 
-The CMS in Quiqr features editing all menu items, text and images and easily lets you change the design.
+Port of the Jekyll [Summer theme](https://github.com/connor-baer/summer) made by [Connor Bär](https://connorbaer.com) to Hugo Theme and Quiqr Template.
+
+[Live Demo](https://mipmip.github.io/summer-qremix/)
+
+[![Summer screenshot](https://github.com/connor-baer/summer/blob/gh-pages/_images/screenshot.jpg)](https://connor-baer.github.io/summer)
 
 ## Showcase
 
-- [TechNative BV](https://technative.eu)
+- https://wearetechnative.github.io/yumyum/
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+
+💛

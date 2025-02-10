@@ -1,57 +1,26 @@
-- title: Pages
+- key: Content
+  title: Content
   menuItems:
-    - key: homepage
-    - key: pagesother
+    - key: pages
+    - key: recipes
 
-- title: Projects
+- key: images
+  title: Images
   menuItems:
-    - key: project_overview
-    - key: project_items
+    - key: images
 
-#- title: Services
-#  menuItems:
-#    - key: service_overview
-#    - key: service_items
-
-- title: Careers
+- key: Settings
+  title: "Settings "
   menuItems:
-    - key: career_overview
-    - key: career_items
+    - key: mainConfig
 
-- title: Blog
-  menuItems:
-    - key: blog_overview
-    - key: blog_items
-
-- title: Assets
-  menuItems:
-    - key: imagesLogo
-    - key: imagesBackgrounds
-    - key: imagesParagraph
-    - key: imagesSlider
-    - key: imagesTeam
-    - key: imagesTestimonial
-    - key: imagesBlog
-    - key: imagesNews
-    - key: imagesProject
-    - key: imagesCareer
-
-- title: Data
-  menuItems:
-    - key: forms
-    - key: team_items
-    - key: testimonials
-
-- title: Settings
-  menuItems:
-    - key: menus_alt
-    - key: design
-    - key: params
-
-- title: Developer
+- key: Developer
+  title: "Developer"
   matchRole: siteDeveloper
   menuItems:
     - key: dashboard
     - key: etalage
     - key: readme
+    - key: license
+    - key: configAdvanced
 

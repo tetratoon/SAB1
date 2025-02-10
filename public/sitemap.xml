@@ -2,72 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/project/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <loc>http://example.org/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <loc>http://example.org/page/about/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/project/project1/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/alcohol/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/project/project2/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <loc>http://example.org/recipe/vanilla-crescents/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/project/project3/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/burger/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/blog/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/blog/item1/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/recipe/cauliflower-steaks/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/blog/item2/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/christmas/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/categories/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/cocktail/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/food/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/cold/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/ipsum/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/cookies/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/lorum/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/dessert/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/categories/news/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/recipe/strawberry-ice-cream/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/tags/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+    <loc>http://example.org/tags/fish/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/pages/about/</loc>
+    <loc>http://example.org/tags/fruit/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/service/business-consulting.1/</loc>
+    <loc>http://example.org/page/gerhard/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/service/business-consulting/</loc>
+    <loc>http://example.org/recipe/gin-tonic-popsicle/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/career/</loc>
+    <loc>http://example.org/recipe/halloumi-watermelon-breadcrumbs/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/pages/download/</loc>
+    <loc>http://example.org/recipe/physalis-caipiroska/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/service/invesment-planning.1/</loc>
+    <loc>http://example.org/page/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/service/invesment-planning/</loc>
+    <loc>http://example.org/tags/quick/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/team/jane/</loc>
+    <loc>http://example.org/recipe/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/service/market-analysis1-555/</loc>
+    <loc>http://example.org/tags/salad/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/team/</loc>
+    <loc>http://example.org/recipe/salmon-burger/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/pages/</loc>
+    <loc>http://example.org/tags/salty/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/career/python_software_engineer/</loc>
+    <loc>http://example.org/tags/sweet/</loc>
   </url><url>
-    <loc>https://wearetechnative.github.io/quiqr-template-bexer-remix/service/</loc>
+    <loc>http://example.org/tags/</loc>
+  </url><url>
+    <loc>http://example.org/tags/vegan/</loc>
+  </url><url>
+    <loc>http://example.org/tags/vegetarian/</loc>
   </url>
 </urlset>
